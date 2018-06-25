@@ -9,6 +9,5 @@ Pentoo is a Live CD and Live USB designed for penetration testing and security a
 It's basically a Gentoo, a Linux-based operating system and a meta-distribution, which means that is built automatically from source code and is customized with the functionality that you want to have and without the unnecessary features that you want to avoid, with lots of customized tools, customized kernel, and much more...
 
 
-
-**Pentoo Penetration Testing Overlay and Livecd**  
+ 
 [Blog](http://pentoo.blogspot.com) | [Twitter @pentoo_linux](https://twitter.com/pentoo_linux) | [Download Stable](https://pentoo.ch/isos/) | [Download Beta](https://pentoo.ch/isos/Beta/) | [Wiki](https://github.com/pentoo/pentoo-overlay/wiki)
