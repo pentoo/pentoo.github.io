@@ -1,12 +1,7 @@
-## Pentoo web page
+<a href="http://pentoo.ch"><img src="https://github.com/pentoo/pentoo-overlay/wiki/images/pentoo2.png"></a>
 
-This web page accessible is over: https://pentoo.github.io
-We can use CNAME file to set up a custom domain name pointing to this page if required,
-
-R3gards
+To access this site and trace a development progress please go to: [pentoo.github.io](https://pentoo.github.io/)
 
 
+Discussion and support available on irc.freenode.net  **#pentoo**
 
-refs:
-
-1) https://help.github.com/articles/using-a-custom-domain-with-github-pages/
