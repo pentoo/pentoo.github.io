@@ -5,3 +5,5 @@ To access this site and trace a development progress please go to: [pentoo.githu
 
 Discussion and support available on irc.freenode.net  **#pentoo**
 
+r3gards
+za2czpan6dpeyoih.onion
